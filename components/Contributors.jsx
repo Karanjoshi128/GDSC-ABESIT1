@@ -90,15 +90,15 @@ function Contributors() {
           desc: "Once a nerd, always a nerd."
         },
 
-    // {
-    //     id: ,
-    //     name: "",
-    //     img: "",
-    //     role: "",
-    //     social1: "",
-    //     social2: "",
-    //     desc: ""
-    //   },
+    {
+        id: 2202901520088,
+        name: "Karan Joshi",
+        img: "https://avatars.githubusercontent.com/u/144046820?v=4.png",
+        role: "Contributor",
+        social1: "www.linkedin.com/in/karan-joshi-a70740271",
+        social2: "https://github.com/Karanjoshi128",
+        desc: "I will Do It Lazily."
+      },
 
     {
       id: 2202901540039,
